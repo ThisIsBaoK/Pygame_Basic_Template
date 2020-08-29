@@ -9,10 +9,8 @@ Preface
     This would be the generic template for most games and other applications as well.
 
 Skills involve in this guide:
-    Image resizing
-    Running python file on command prompt
-    Finding the directory of image
-    
+    Image resizing (optional)
+    Finding the directory of image (optional)
 
 Intruction:
     Change photos to match your preferences
@@ -21,7 +19,7 @@ Intruction:
     Resize the background image properly to match the size of the screen
         Ex: screen = pygame.display.set_mode((800, 600))  
     Resize the user/player image properly to match the size of the user/player object displayed on the screen
-    To run this python file -> check guide "Run Python On Command Prompt" (if available)
+    To run this python file -> click on the file itself
 
 
 
