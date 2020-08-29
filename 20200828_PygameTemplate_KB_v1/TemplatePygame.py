@@ -29,6 +29,10 @@ Warning:
     Make sure photos downloaded from internet is properly licensed for usage especially if people want to further share their work publicly.
 '''
 
+
+
+
+
 import pygame
 
 # Initialize the Pygame 
